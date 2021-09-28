@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/princegup678/My-Portfolio/issues"
   },
-  "homepage": "https://princegup678.github.io/"
+  "homepage": "https://princegup678.github.io/",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
