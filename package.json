@@ -1,0 +1,23 @@
+{
+  "name": "princegup678.github.io/",
+  "version": "1.0.0",
+  "description": "> A clean, beautiful, responsive portfolio template for Software Developers!",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princegup678/My-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princegup678/My-Portfolio/issues"
+  },
+  "homepage": "https://princegup678.github.io/"
+}
